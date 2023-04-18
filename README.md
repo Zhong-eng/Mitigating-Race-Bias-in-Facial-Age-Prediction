@@ -14,7 +14,7 @@ Finally, we implemented 3 effective and generalizable methods to mitigate the ra
   - Adaptive Sampling
   - Adversarial Learning
 
-We compare performance these 3 methods in terms of fairness violation and overall performace. You can find more details in our [presentation video](https://drive.google.com/file/d/11wT7VsUgeRKh16JRDrEzdmxWz_G3vkE6/view?usp=sharing) and report (coming soon).
+We compare performance these 3 methods in terms of fairness violation and overall performace. You can find more details in our [presentation video](https://drive.google.com/file/d/11wT7VsUgeRKh16JRDrEzdmxWz_G3vkE6/view?usp=sharing) and [report](https://drive.google.com/file/d/18FtlfTiIW_OKZKUKEZlg-XF5oHO4U3Sa/view?usp=sharing).
 
 ## Run our code
 ### Dependencies
